@@ -8,6 +8,9 @@ This is a **To-Do List application** built with **React**, **Redux**, and **styl
 
 ---
 
+
+
+
 ## Features
 - **User Authentication**: Mock login and logout functionality.
 - **Theme Toggle**: Light and dark theme toggle.
@@ -94,6 +97,12 @@ A higher-order component that checks if the user is authenticated before allowin
 
 
 
-
+![Image](https://github.com/user-attachments/assets/360a7451-2961-42d8-9b75-8b55733d086a)
+![Image](https://github.com/user-attachments/assets/bcfc170f-3edf-4bd3-8019-e01b6f3ea7cb)
+![Image](https://github.com/user-attachments/assets/b7643830-14c2-4f3a-ae86-e674f86111a8)
+![Image](https://github.com/user-attachments/assets/1e7da12a-169a-42e9-b557-6b70e2c9bfe5)
+![Image](https://github.com/user-attachments/assets/b461d6e0-41dd-4757-9e2d-6f9a3c252040)
+![Image](https://github.com/user-attachments/assets/bf5141d2-a6fe-4a43-85ea-fb8da5b72004)
+![Image](https://github.com/user-attachments/assets/8328186b-7c8c-4774-9cc2-640783c0da5b)
 
 
